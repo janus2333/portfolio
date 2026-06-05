@@ -38,20 +38,30 @@ const About = () => {
           <div className="bg-gradient-to-br from-gray-900/50 to-gray-800/50 rounded-2xl p-8 sm:p-12 border border-purple-500/20 shadow-xl">
             <div className="prose prose-invert max-w-none">
               <p className="text-gray-300 text-lg leading-relaxed mb-6">
-                Hello! I'm a passionate full-stack developer with over 5 years of experience 
-                building modern web applications. I specialize in React, TypeScript, and Node.js, 
-                with a strong focus on creating intuitive user experiences and scalable solutions.
+                操了老铁我又有重大发现🧐我的朋友他极有可能是一个M😱
+                为什么这么说呢🤔因为他每天都发一些文案骚扰我😅直到我昨天和他说 你是傻福吧😡
+                他说你有本事再骂一句😓我说 你是傻福吧😡他说他 爽了😋我操了老铁他说他爽了😨
+                难道他之前打游戏是故意装糖让我骂的吗😰不是智斗你怎么用到这方面来了🥺我现在都不敢骂了😭
+                生怕他给爽到😥我现在就要把我那个诡计多端的M朋友艾特出来😡
               </p>
               <p className="text-gray-300 text-lg leading-relaxed mb-6">
-                My journey in tech started when I built my first website at 15. Since then, 
-                I've worked with startups and established companies, helping them bring their 
-                ideas to life through clean, efficient code. I believe in writing code that is 
-                not only functional but also maintainable and well-documented.
+                我c了老铁，这地球online能不能给我加一个血条的功能啊？
+                我每天这样熬夜扣我的生命上限，但我自己又看不到，我真怕哪天直接给我扣没了。
+                不过仔细一想，我熬夜减少的生命上限，是我老年的生命上限，而我现在熬夜享受的是我年轻的生命。
+                我去！还有超前消费！那这么说，熬夜是一种慢死，但同样也是一种快活。不过真别熬夜了吧，
+                对手机不太好。我发现睡前15分钟是手机最好玩的8个小时。每当我决定睡觉的时候，手机的大数
+                据是一点都不藏私了，专挑我喜欢的视频推送。平时刷1个小时能刷到两三条我喜欢看的，但我要
+                睡觉的时候就不一样了，每条视频都是我喜欢看的。这种视频放在眼睛里就是一种享受你们知道吗？
+                所以我把这些视频都分享给了我的好朋友，让他一起床就能享受美味早餐。结果他也没有睡。
+                我去不早说！怪不得我们两个能玩一块呢！咕咕嘎嘎！
               </p>
               <p className="text-gray-300 text-lg leading-relaxed">
-                When I'm not coding, you can find me exploring new technologies, contributing 
-                to open-source projects, or sharing knowledge through technical blog posts. 
-                I'm always eager to learn and take on new challenges that push me to grow as a developer.
+                卧槽了老铁，你真别怪我天天给你搬石，我其实是精卫来的，我把石存在你这里只是为了填海，
+                等我什么时候存的石够把海填平了，我就不给你分享了，所以说好好珍惜我给你搬石的时光吧，
+                以后就看不到了，你问我什么时候存的石够把海填平，开玩笑，我上辈子是神鸟都没做到，这辈
+                子我只是神人，我怎么可能做到嘛，你就等着被我搬一辈子石吧，哦对了，最近换季，注意保暖，
+                不要感冒了，我不希望你因为感冒而耽误了看我搬的石，毕竟好朋友只有我才可以骚扰你，感冒都
+                不行。咕咕嘎嘎！
               </p>
             </div>
           </div>

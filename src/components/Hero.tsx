@@ -24,13 +24,16 @@ const Hero = () => {
               Hi, I'm
             </span>
             <br />
-            <span className="text-white">Janus</span> //姓名
+            <span className="text-white">WC了老铁</span> //姓名
           </h1>
 
           {/* 简介 */}
           <p className="text-lg sm:text-xl text-gray-300 mb-8 max-w-lg mx-auto md:mx-0 leading-relaxed">
-            A passionate developer creating beautiful and functional web experiences. 
-            Specializing in React, TypeScript, and modern web technologies.
+            槽了老铁～我刚认识你那会，真是你这辈子的演技巅峰啊，那时候我真以为你很高冷来着，
+            坐在一群人里是最安静的，然后我还问你是哪里人，你还彬彬有礼的回答我，你哪里是人啊朋友，
+            你能不能恢复一下，恢复到我们刚认识那会儿，你的意思是说以后你都是这副傻不拉几的样子了嘛，
+            这也…这也…这太爽了吧！那这就对上了，其实我也傻不拉几的，这样我们的病情就非常一致了，
+            怪不得你当时装的这么像，我还是在一堆人里锁定了你，你要再多装两天我就被你骗过去了
           </p>
 
           {/* CTA按钮 */}

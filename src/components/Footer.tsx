@@ -17,7 +17,7 @@ const Footer = () => {
 
   // 社交媒体链接
   const socialLinks = [
-    { name: 'GitHub', icon: '🐙', url: 'https://github.com' },
+    { name: 'GitHub', icon: '🐙', url: 'https://github.com/janus2333/portfolio' },
     { name: 'LinkedIn', icon: '💼', url: 'https://linkedin.com' },
     { name: 'Twitter', icon: '🐦', url: 'https://twitter.com' },
     { name: 'Email', icon: '📧', url: 'mailto:your.email@example.com' }

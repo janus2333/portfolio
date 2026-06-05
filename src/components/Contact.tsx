@@ -9,23 +9,23 @@ const Contact = () => {
   const contactInfo = [
     {
       icon: '📧',
-      title: 'Email',
-      value: 'your.email@example.com',
+      title: '不Email',
+      value: 'bu.email@example.com',
       link: 'mailto:your.email@example.com',
       description: 'Send me an email anytime'
     },
     {
       icon: '💼',
-      title: 'LinkedIn',
+      title: '没有LinkedIn',
       value: 'linkedin.com/in/yourprofile',
       link: 'https://linkedin.com/in/yourprofile',
       description: 'Connect with me professionally'
     },
     {
       icon: '🐙',
-      title: 'GitHub',
-      value: 'github.com/yourusername',
-      link: 'https://github.com/yourusername',
+      title: '这个可以GitHub',
+      value: 'https://github.com/janus2333/portfolio',
+      link: 'https://github.com/janus2333/portfolio',
       description: 'Check out my code'
     }
   ]

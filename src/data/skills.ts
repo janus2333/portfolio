@@ -20,7 +20,7 @@ export interface SkillCategory {
 export const skillCategories: SkillCategory[] = [
   {
     id: 'frontend',
-    title: 'Frontend Development',
+    title: '厉不厉害你鸡哥',
     icon: '🎨',
     skills: [
       { name: 'React', level: 90, category: 'frontend' },
@@ -33,7 +33,7 @@ export const skillCategories: SkillCategory[] = [
   },
   {
     id: 'backend',
-    title: 'Backend Development',
+    title: '吾辈楷模名场面',
     icon: '⚙️',
     skills: [
       { name: 'Node.js', level: 82, category: 'backend' },
@@ -46,7 +46,7 @@ export const skillCategories: SkillCategory[] = [
   },
   {
     id: 'tools',
-    title: 'Tools & DevOps',
+    title: '随便取一个',
     icon: '🛠️',
     skills: [
       { name: 'Git', level: 90, category: 'tools' },
@@ -59,7 +59,7 @@ export const skillCategories: SkillCategory[] = [
   },
   {
     id: 'soft',
-    title: 'Soft Skills',
+    title: '狗叫？',
     icon: '💡',
     skills: [
       { name: 'Problem Solving', level: 90, category: 'soft' },
