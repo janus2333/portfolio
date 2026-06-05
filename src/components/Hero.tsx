@@ -24,7 +24,7 @@ const Hero = () => {
               Hi, I'm
             </span>
             <br />
-            <span className="text-white">Your Name</span>
+            <span className="text-white">Janus</span> //姓名
           </h1>
 
           {/* 简介 */}
